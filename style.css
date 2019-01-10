@@ -9,3 +9,8 @@ body {
 main {
 	padding: 1em;
 }
+
+img {
+	max-width;100%
+	center; center
+}
