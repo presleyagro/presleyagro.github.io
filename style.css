@@ -2,15 +2,10 @@
 body {
 	margin: 0;
 	padding: 0;
-	background: lime;
-	color: yellow;
-	font-family: fantasy;
+	background: grey;
+	color: white;
+	font-family: sans-serif;
 }
 main {
 	padding: 1em;
-}
-
-img {
-	max-width;100%
-	center; center
 }
